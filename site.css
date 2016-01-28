@@ -1,0 +1,44 @@
+.navbar{
+    background-image: url("navbar.jpg");
+	width: 1000px;
+	height: 100px;
+	color: white;
+}
+.navbar-el{
+	width: 250px;
+	text-align: center;
+}
+
+.navbar-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar-li {
+    float: left;
+}
+
+.navbar-li-a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: black;
+}
+
+.active-navbar-el {
+    background-color: #4CAF50;
+}
+.homepageimg{
+	background-image:url("http://eskipaper.com/images/light-blue-background-2.jpg");
+	width:1000;
+	height:250;
+	color:white;
+}
