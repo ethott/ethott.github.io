@@ -1,7 +1,30 @@
+.indent{
+	text-indent:20px;
+}
+ul.gray{
+	color:gray;
+}
+p{
+	text-indent:10px;
+	margin-left: .2cm;
+}
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: Sans-serif;
+	vertical-align: baseline;
+}
+.homepageimage{
+	background-image:url('homepageimage.jpg');
+	width:1000;
+	height:300;
+}
 .navbar{
-    background-image: url("navbar.jpg");
+    background-image:url('navbar.jpg');
 	width: 1000px;
-	height: 100px;
+	height: 100px; 
 	color: white;
 }
 .navbar-el{
@@ -9,6 +32,9 @@
 	text-align: center;
 }
 
+body{
+	line-height: 1;
+}
 .navbar-ul {
     list-style-type: none;
     margin: 0;
@@ -36,12 +62,40 @@ li a:hover {
 .active-navbar-el {
     background-color: #4CAF50;
 }
-.homepageimg{
-	background-image:url("http://eskipaper.com/images/light-blue-background-2.jpg");
-	width:1000;
-	height:250;
+.text-prop{
+	color: 999999;
+	font-style: Sans-serif;
+}
+.bottom-prop{
+	text-align: center;
+}
+.divleft{
+	float:center;
+	width: 650px;
+	border: 1px;
+}
+.name-prop{
+	color: white;
+	font-size:60px;
+	font-family: Comic;
+}
+div.button{
+	border-color:white;
+	color:white;
+	float:right;
+	margin-right:2cm;
+	border:2px solid white;
+	width:200px;
+	height: 50px;
+	text-align: center;
+	font-size:24px;
+}
+.filler{
 	color:white;
 }
-.imagecover{
-	background-image:("");
+.header-prop{
+	font-family:Helvetica neue;
+	
 }
+
+
