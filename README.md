@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ethott.github.io
 <h1>Ethott.com</h1>
 <h2>Description:</h2>
@@ -8,7 +8,6 @@ The website is mobile freindly, and is accessible through any web based browser
 Ex. Chrome, Firfox, Internet explorer, etc.
 The code itself is allocated in the repository <a href="https://github.com/ethott/ethott.github.io">Here</a>: 
 </p>
-![Alt Text](https://raw.githubusercontent.com/ethott/ethott.github.io/master/IphoneView.png)
 <p>
 <ol>
 <li>Mobile Usage</li>
@@ -20,7 +19,6 @@ The code itself is allocated in the repository <a href="https://github.com/ethot
 <p>
 <ol>
 <li>Before starting work on a new feature, enhancement, or fix, please create an issue and optionally assign it to yourself or a developer.</li>
-=======
 
 
 <h1>Ethott.com</h1>
@@ -31,8 +29,7 @@ The code itself is allocated in the repository <a href="https://github.com/ethot
   Ex. Chrome, Firfox, Internet explorer, etc.
   The code itself is allocated in the repository <a href="https://github.com/ethott/ethott.github.io">Here</a>: 
  </p>
- ![Alt Text](https://raw.githubusercontent.com/ethott/ethott.github.io/master/IphoneView.png)
- <p>
+  <p>
 <ol>
  <li>Mobile Usage</li>
  <li>Supporting All browsers</li>
@@ -43,7 +40,6 @@ The code itself is allocated in the repository <a href="https://github.com/ethot
  <p>
   <ol>
  <li>Before starting work on a new feature, enhancement, or fix, please create an issue and optionally assign it to yourself or a developer.</li>
->>>>>>> e7c038de7adc8ef50b936235e5eed85672d2bdd0
 <li>Fork the repository and make your changes against the 'development' branch (not master).</li>
 <li>After making your changes in your fork, run tests and ensure that the page looks good and works with all supported browsers.</li>
 <li>If you have made a series of commits into the 'development' branch, please try to squash them into a small number of commits.</li>
@@ -51,23 +47,18 @@ The code itself is allocated in the repository <a href="https://github.com/ethot
 <li>I will review your code and may optionally request conformance, functional or other changes. Work with them to resolve any issues.</li>
 <li>Upon acceptance, your code will be merged into the master branch and will become available for all.</li>
 <ol>
-<<<<<<< HEAD
+
 
 </p>
-=======
+
  
  </p>
->>>>>>> e7c038de7adc8ef50b936235e5eed85672d2bdd0
 </p>
 <h2>License and Author</h2>
 <p>
 Author: Ethan Ott(<a href="mailto:ethan84096@gmail.com">Gmail</a>)<p>
 <p>
-<<<<<<< HEAD
-"Permission is hereby granted, free of charge, to any person
-=======
  "Permission is hereby granted, free of charge, to any person
->>>>>>> e7c038de7adc8ef50b936235e5eed85672d2bdd0
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
 restriction, including without limitation the rights to use,
@@ -90,21 +81,7 @@ OTHER DEALINGS IN THE SOFTWARE."
 
 </p>
 
-<<<<<<< HEAD
 
-
-
-
-
-
-
-=======
- 
- 
-
- 
- 
->>>>>>> e7c038de7adc8ef50b936235e5eed85672d2bdd0
 
 
 
