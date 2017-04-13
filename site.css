@@ -1,6 +1,51 @@
 
 /*CSS displayed modifies the views of the website*/
-.indent{
+.container{
+	
+}
+.left-element {
+    background: blue;
+    display: inline-block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+}
+
+.right-element {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    padding-bottom: 50px;
+     
+}
+.who-info{
+	padding-top: 25;
+	padding-left: 25;
+	padding-bottom: 15;
+}
+.what-info{
+	 padding-top: 25px;
+	 padding-left: 25;
+	 padding-bottom: 15;
+}
+.when-info{
+	 padding-top: 25px;
+	 padding-left: 25;
+	 padding-bottom: 15;
+}
+p{
+	 font-family: "Times New Roman";
+}
+
+
+
+
+/*.indent{
 	text-indent:20px;
 }
 ul.gray{
@@ -26,7 +71,7 @@ body{
 .navbar{
     background-image:url('navbar.jpg');
 	width: 1000px;
-	height: 100px; 
+	height: 100px;
 	color: white;
 }
 .navbar-el{
@@ -98,8 +143,8 @@ div.button{
 }
 .header-prop{
 	font-family:Helvetica neue;
-	
-}
 
+}
+*/
 
 
