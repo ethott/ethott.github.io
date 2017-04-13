@@ -3,8 +3,12 @@
 .container{
 	
 }
+.getintouch_tag{
+	width:50%;
+	height:50%;
+}
 .left-element {
-    background: blue;
+    background: #33E5BB;
     display: inline-block;
     position: fixed;
     left: 0;
@@ -39,7 +43,8 @@
 	 padding-bottom: 15;
 }
 p{
-	 font-family: "Times New Roman";
+	 font-family: "sans-serif";
+	 line-height: 1.5em;
 }
 
 
@@ -102,7 +107,7 @@ body{
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+/*li a:hover {
     color: black;
 }
 
