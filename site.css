@@ -3,6 +3,18 @@
 .container{
 	font-family: "Montserrat",sans-serif;
 }
+.socialmedia_container{
+	position:absolute;
+	top: 78%;
+	left:25%;
+	width:340;
+	height:200;
+}
+.github_tag{
+	background-image: url("github_logo.png");
+	width:50;
+	height:25%;
+}
 em{
 	color:#3ee6bf;
 }
@@ -26,6 +38,7 @@ em{
 }
 .getintouch_tag{
 	position:absolute;
+	background-color:gray;
 	top: 70% ;
     left:40%;
 	text-align:center;
