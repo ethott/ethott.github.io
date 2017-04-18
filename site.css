@@ -11,9 +11,23 @@
 	height:200;
 }
 .github_tag{
-	background-image: url("github_logo.png");
+	position:absolute;
 	width:50;
-	height:25%;
+	height:50px;
+	top: 80%;
+	right: 55%;
+}
+.twitter_tag{
+	position: absolute;
+	width: 50;
+	top: 80%;
+	right: 45%;
+}
+.linkden_tag{
+	position: absolute;
+	width: 50;
+	top: 80%;
+	right: 35%;
 }
 em{
 	color:#3ee6bf;
@@ -35,6 +49,14 @@ em{
 	width:340;
 	height:41;
 	color:white;
+}
+.lastabout_tag{
+	position: absolute;
+	color: gray;
+	align:center;
+	left: 40%;
+	font-size: 50%;
+	
 }
 .getintouch_tag{
 	position:absolute;
@@ -74,23 +96,27 @@ em{
 	padding-top: 10;
 	padding-left: 25;
 	padding-bottom: 15;
+    text-indent: 50px;
+   
 }
 .what-info{
 	 padding-top: 10px;
 	 padding-left: 25;
 	 padding-bottom: 15;
+	 text-indent: 20px;
+	
 }
 
 .when-info{
-	 padding-top:10;
 	 padding-left: 25;
 	 padding-bottom: 15;
+	 text-indent: 50px;
+	
 }
 p{
 	 font-family: "sans-serif";
 	 line-height: 1.5em;
 }
-
 
 
 
