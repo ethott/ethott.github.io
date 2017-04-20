@@ -35,7 +35,7 @@ The code itself is allocated in the repository <a href="https://github.com/ethot
  <li>Supporting All browsers</li>
 </ol>
  <h2>Website</h2>
- <p>Visit the website by going to the link provided here: <a href="http://ethott.com">Ethan Ott</a>
+<p>Visit the website by going to the link provided here: <a href="http://ethott.com">Ethan Ott Or <a href="http://ethott.github.io">Ethan</a>
  <h2>How to Contribute?</h2>
  <p>
   <ol>
