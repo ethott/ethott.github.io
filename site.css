@@ -124,6 +124,9 @@ p{
 	 font-family: "sans-serif";
 	 line-height: 1.5em;
 }
+a:hover {
+	background-color: blue;
+}
 
 
 
