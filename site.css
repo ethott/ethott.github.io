@@ -1,82 +1,91 @@
-
 /*CSS displayed modifies the views of the website*/
-.container{
-	font-family: "Montserrat",sans-serif;
+.blur {
+width:100%;
+height:100%;
+background-size:cover;
+-webkit-filter: blur(4px);
+-moz-filter: blur(4px);
+-ms-filter: blur(4px);
+-o-filter: blur(4px);
+filter: blur(4px);
 }
-.socialmedia_container{
-	position:absolute;
-	top: 78%;
-	left:25%;
-	width:340;
-	height:200;
+.container {
+    font-family: "Montserrat", sans-serif;
 }
-.github_tag{
-	position:absolute;
-	width:50;
-	height:50px;
-	top: 80%;
-	right: 55%;
+.socialmedia_container {
+    position: absolute;
+    top: 78%;
+    left: 25%;
+    width: 340;
+    height: 200;
 }
-.twitter_tag{
-	position: absolute;
-	width: 50;
-	top: 80%;
-	right: 45%;
+.github_tag {
+    position: absolute;
+    width: 50;
+    height: 50px;
+    top: 80%;
+    right: 55%;
 }
-.linkden_tag{
-	position: absolute;
-	width: 50;
-	top: 80%;
-	right: 35%;
+.twitter_tag {
+    position: absolute;
+    width: 50;
+    top: 80%;
+    right: 45%;
 }
-.instagam_tag{
-	position:absolute;		
-	width:50%;
-	top:80%;
-	right:#;
-
+.linkden_tag {
+    position: absolute;
+    width: 50;
+    top: 80%;
+    right: 35%;
 }
-em{
-	color:#3ee6bf;
+.instagam_tag {
+    position: absolute;
+    width: 50%;
+    top: 80%;
+    right: #;
 }
-.name_tag{
-	position:absolute;
-	top: 40%;
-	left:25%;
-	width:340;
-	height:28;
-	text-align:center;
-	color:white;
+em {
+    color: #3ee6bf;
 }
-.block_title{
-	text-align:center;
-	position:absolute;
-	top: 50%;
-	left:25%;
-	width:340;
-	height:41;
-	color:white;
+.name_tag {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    width: 340;
+    height: 28;
+    text-align: center;
+    color: white;
 }
-.lastabout_tag{
-	position: absolute;
-	color: gray;
-	align:center;
-	left: 40%;
-	font-size: 50%;
-	
+.block_title {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    width: 340;
+    height: 41;
+    color: white;
 }
-.getintouch_tag{
-	position:absolute;
-	background-color:gray;
-	top: 70% ;
-    left:40%;
-	text-align:center;
-	width:140;
-	height:48;
-	color:white;
+.lastabout_tag {
+    position: absolute;
+    color: gray;
+    align: center;
+    left: 40%;
+    font-size: 50%;
+}
+.getintouch_tag {
+    position: absolute;
+    background-color: gray;
+    top: 70%;
+    left: 40%;
+    text-align: center;
+    width: 140;
+    height: 48;
+    color: white;
 }
 .left-element {
-     background-image: url("italy.jpeg");
+    background-image: url("Ethan.jpg");
+	background-size: 650px 750px;
+	
     display: inline-block;
     position: fixed;
     left: 0;
@@ -84,7 +93,6 @@ em{
     bottom: 0;
     width: 50%;
 }
-
 .right-element {
     display: inline-block;
     position: absolute;
@@ -93,41 +101,41 @@ em{
     bottom: 0;
     width: 50%;
     padding-bottom: 50px;
-     
 }
-.header_tag{
-	padding-top:15;
-	padding-left:25px;
+.header_tag {
+    padding-top: 15;
+    padding-left: 25px;
 }
-.who-info{
-	padding-top: 10;
-	padding-left: 25;
-	padding-bottom: 15;
+.info {
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    text-indent: 20px;
+}
+.when-info {
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-bottom: 15px;
     text-indent: 50px;
-   
 }
-.what-info{
-	 padding-top: 10px;
-	 padding-left: 25;
-	 padding-bottom: 15;
-	 text-indent: 20px;
-	
+li {
+    font-family: "sans-serif";
+    line-height: 1.5em;
 }
-
-.when-info{
-	 padding-left: 25;
-	 padding-bottom: 15;
-	 text-indent: 50px;
-	
+span {
+    margin-top: 20px;
+    margin-left: 0px;
+    letter-spacing: -0.25em;
 }
-p{
-	 font-family: "sans-serif";
-	 line-height: 1.5em;
+p {
+    font-family: "sans-serif";
+    line-height: 1.5em;
 }
 a:hover {
-	background-color: blue;
+    background-color: blue;
 }
-
+/*background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #0085ff), color-stop(0.15, #8dc8ff), color-stop(0.3,#ffffff));
+ 
 
 
 /*.indent{
@@ -231,5 +239,3 @@ div.button{
 
 }
 */
-
-
