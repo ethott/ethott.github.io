@@ -3,11 +3,8 @@
 width:100%;
 height:100%;
 background-size:cover;
--webkit-filter: blur(4px);
--moz-filter: blur(4px);
--ms-filter: blur(4px);
--o-filter: blur(4px);
-filter: blur(4px);
+overflow: hidden;
+ filter: blur(13px);
 }
 .container {
     font-family: "Montserrat", sans-serif;
@@ -109,7 +106,7 @@ em {
 .info {
     padding-top: 0px;
     padding-left: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 0px;
     text-indent: 20px;
 }
 .when-info {
