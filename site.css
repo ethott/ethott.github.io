@@ -5,7 +5,7 @@ height:100%;
 background-size:cover;
 overflow: hidden;
  filter: blur(13px);
-}
+}/*Container holds everything in the website*/
 .container {
     font-family: "Montserrat", sans-serif;
 }
@@ -16,6 +16,7 @@ overflow: hidden;
     width: 340;
     height: 200;
 }
+/*all social media linked tags properites*/
 .github_tag {
     position: absolute;
     width: 50;
@@ -69,6 +70,7 @@ em {
     left: 40%;
     font-size: 50%;
 }
+/* Get in touch button*/
 .getintouch_tag {
     position: absolute;
     background-color: gray;
@@ -79,6 +81,7 @@ em {
     height: 48;
     color: white;
 }
+/*Contain the image of myself*/
 .left-element {
     background-image: url("Ethan.jpg");
 	background-size: 650px 750px;
